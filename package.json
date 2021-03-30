@@ -1,0 +1,25 @@
+{
+  "name": "clean-node-api",
+  "version": "1.0.0",
+  "description": "api created during the course Node Js, Typescript, TDD, DDD, Clean Architecture and Solid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mefistofeles66/clean-node-api.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "Typescript",
+    "TDD",
+    "DDD"
+  ],
+  "author": "Gabriel Costa Siqueira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mefistofeles66/clean-node-api/issues"
+  },
+  "homepage": "https://github.com/mefistofeles66/clean-node-api#readme"
+}
