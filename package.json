@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/mefistofeles66/clean-node-api/issues"
   },
-  "homepage": "https://github.com/mefistofeles66/clean-node-api#readme"
+  "homepage": "https://github.com/mefistofeles66/clean-node-api#readme",
+  "dependencies": {
+    "git-commit-msg-linter": "^3.1.0"
+  }
 }
