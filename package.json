@@ -4,8 +4,8 @@
   "description": "api created during the course Node Js, Typescript, TDD, DDD, Clean Architecture and Solid",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
-    "test:staged": "jest"
+    "test": "jest --watch",
+    "test:staged": "jest --passWithNoTests"
   },
   "repository": {
     "type": "git",
